@@ -39,7 +39,7 @@ The dataset (`netflix_data.csv`) contains Netflix titles with the following fiel
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/netflix-90s-eda.git
+git clone https://github.com/maarufvai/netflix-90s-eda.git
 cd netflix-90s-eda
 ```
 
